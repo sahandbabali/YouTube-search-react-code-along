@@ -1,0 +1,56 @@
+.navbar {
+      background-color: #FF0000 !important;
+}
+
+#inputbox {
+      padding: 5rem;
+      background-image: url("./yt2.jpg");
+      background-size: cover;
+      background-position: center;
+      
+}
+
+#inputwhiteback  {
+      background-color: rgba(255, 255, 255, 0.5);
+      
+      padding: 2rem;
+     
+}
+
+#inputwhiteback form .mb-3 {
+      margin: 0 !important;
+}
+
+#button-addon2 {
+      
+      background-color: #FF1400;
+}
+
+#sidebar {
+      padding: 1rem;
+}
+#sidebar img {
+      max-width: 100%;
+      height: auto;
+}
+
+
+#videodetails {
+      padding: 1rem;
+}
+
+
+
+#pagecontent {
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+}
+
+#footer {
+      background-color: #FF1400;
+      text-align: center;
+      padding: 1rem;
+      color: white;
+}
+
+
